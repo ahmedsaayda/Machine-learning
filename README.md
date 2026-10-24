@@ -42,5 +42,5 @@ A curated collection of end-to-end Machine Learning workflows implemented in Pyt
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ahmedsaayda/Machine-learning.git](https://github.com/ahmedsaayda/Machine-learning.git)
-   cd Machine-learning
+  git clone https://github.com/ahmedsaayda/Machine-learning.git
+cd Machine-learning
